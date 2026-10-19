@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="我们的纪念日">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9ab0" />
+      <stop offset="0.52" stop-color="#ff6b8a" />
+      <stop offset="1" stop-color="#d83c66" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)" />
+  <path
+    d="M32 52.5C13.5 39.5 11 27 19.5 20.5 25 16.5 30.5 20.5 32 23.5c1.5-3 7-7 12.5-3C53 27 50.5 39.5 32 52.5Z"
+    fill="#ffffff"
+  />
+</svg>
